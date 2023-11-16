@@ -1,0 +1,17 @@
+.ag-grid-table-container {
+  background-color: white;
+  border: 1px solid rgb(194, 194, 194);
+  box-shadow: 2px 4px 24px rgb(186, 186, 186);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 97%;
+  overflow: hidden;
+}
+
+.table-header {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  padding: 6px;
+}
